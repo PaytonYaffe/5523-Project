@@ -59,3 +59,4 @@ print("Unique labels:", np.unique(Y))
 print("Label balance:", np.mean(Y == 1))
 print("Mean of X[Y==1]:", X[Y==1].mean(axis=0))
 print("Mean of X[Y==-1]:", X[Y==-1].mean(axis=0)) 
+
