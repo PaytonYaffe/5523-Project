@@ -1,4 +1,3 @@
-
 import numpy as np
 from dataGen import generate_data
  
